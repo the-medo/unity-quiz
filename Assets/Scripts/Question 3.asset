@@ -12,6 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3256fd75a0ec54aa1539875aba41ca, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: 'Question number 3
-
-'
+  subjectOfQuestion: "Ten, \u010Do nedo\u0161iel"
+  question: "Ko\u013Eko \xFA\u010Dtov dokopy Dominik vlastne m\xE1?"
+  answers:
+  - 3
+  - 4
+  - 6
+  - 8
+  pathToAnswerImages:
+  - none
+  - none
+  - none
+  - none
+  correctAnswerIndex: 1

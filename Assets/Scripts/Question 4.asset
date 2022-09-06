@@ -12,6 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3256fd75a0ec54aa1539875aba41ca, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: 'Question number 4
-
-'
+  subjectOfQuestion: "Ten, \u010Do trp\xED Vierku najviac"
+  question: "Ktor\xE9ho championa na lolku Maro\u0161 NEvlastn\xED?"
+  answers:
+  - Lux
+  - Caitlyn
+  - Nautilus
+  - Amumu
+  pathToAnswerImages:
+  - Images/Lux_OriginalSkin
+  - Images/Caitlyn_OriginalSkin
+  - Images/Nautilus_OriginalSkin
+  - Images/Amumu_OriginalSkin
+  correctAnswerIndex: 3

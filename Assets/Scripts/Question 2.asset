@@ -12,6 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3256fd75a0ec54aa1539875aba41ca, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: 'Question number 2
-
-'
+  subjectOfQuestion: "Ten, \u010Do nedo\u0161iel"
+  question: "Ak\xFD bol Dominikov prv\xFD skin na lolku?\n"
+  answers:
+  - Tango Twisted Fate
+  - Crimson Elite Riven
+  - Forecast Janna
+  - Dragonslayer Vayne
+  pathToAnswerImages:
+  - Images/Twisted_Fate_TangoSkin
+  - Images/Riven_CrimsonEliteSkin
+  - Images/Janna_ForecastSkin
+  - Images/Vayne_DragonslayerSkin
+  correctAnswerIndex: 0

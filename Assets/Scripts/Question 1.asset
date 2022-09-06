@@ -12,6 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b3256fd75a0ec54aa1539875aba41ca, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: 'Question number 1
-
-'
+  subjectOfQuestion: "Ten, \u010Do nedo\u0161iel"
+  question: "Ak\xFD bol Dominikov prv\xFD nick na lolku?\n"
+  answers:
+  - gambl3R
+  - gambl3RLut
+  - Luthernann
+  - 420Smurf69
+  pathToAnswerImages:
+  - none
+  - none
+  - none
+  - none
+  correctAnswerIndex: 1
